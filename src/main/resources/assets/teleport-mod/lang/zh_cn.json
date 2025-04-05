@@ -1,0 +1,4 @@
+{
+  "command.error.info": "只有玩家可以使用此命令!",
+  "command.teleport.success.info": "已将%s传送至%s"
+}

@@ -1,0 +1,4 @@
+{
+  "command.error.info": "Only players can use this command!",
+  "command.teleport.success.info": "Teleported %s to %s"
+}
